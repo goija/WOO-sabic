@@ -1,5 +1,7 @@
 markdown_content = """# Overzicht PFBS-lozingen Sabic (2025)
 
+https://www.rechtspraak.nl/organisatie-en-contact/organisatie/rechtbanken/rechtbank-oost-brabant/nieuws/2025/10/plasticfabrikant-moet-lozen-van-pfbs-in-westerschelde-beperken
+
 Op basis van de verstrekte documenten is hier een overzicht van de PFBS-lozingen door Sabic in 2025.
 
 ## Naleving van de Jaarvrachtlimiet
